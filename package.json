@@ -1,0 +1,46 @@
+{
+  "name": "@rough/ting",
+  "version": "0.1.0",
+  "description": "A microservice framework and toolset",
+  "main": "lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihoro/rough-ting"
+  },
+  "keywords": [
+    "framework",
+    "toolset",
+    "microservice",
+    "service",
+    "soa",
+    "rpc",
+    "grpc",
+    "protobuf",
+    "proto",
+    "http2",
+    "binary",
+    "rx",
+    "rxjs",
+    "observable",
+    "test",
+    "integration",
+    "itest",
+    "docker",
+    "docker-compose"
+  ],
+  "author": "Igor Ostapenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ihoro/rough-ting/issues"
+  },
+  "homepage": "https://github.com/ihoro/rough-ting/issues#readme",
+  "publicConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "rxjs": "^6.4.0"
+  }
+}
